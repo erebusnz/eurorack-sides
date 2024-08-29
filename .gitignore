@@ -5,6 +5,7 @@
 *.000
 *.bak
 *.bck
+*.lck
 *.kicad_pcb-bak
 *.kicad_sch-bak
 *-backups
@@ -16,6 +17,8 @@ _autosave-*
 *-save.pro
 *-save.kicad_pcb
 fp-info-cache
+production
+fabrication-toolkit-options.json
 
 # Netlist files (exported from Eeschema)
 *.net
